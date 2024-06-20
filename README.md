@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **DSA🤮**
 
-- 💬 Ask me about **React and frontend**
+- 💬 Ask me about **Fullstack + Web3**
 
 - 📫 How to reach me **codekartikey@gmail.com**
 
