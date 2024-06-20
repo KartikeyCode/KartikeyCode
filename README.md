@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **codekartikey@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1OYu25t8Xeq_wrfl2Gi3FuMhS9-a2Yx3t/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OYu25t8Xeq_wrfl2Gi3FuMhS9-a2Yx3t/view?usp=sharing]
 
 - ⚡ Fun fact **I don't touch grass :D**
 
