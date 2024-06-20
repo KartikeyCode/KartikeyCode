@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeycode&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeycode" /> </p>
 
-- 🌱 I’m currently learning **Solidity**
+- 🌱 I’m currently learning ** DSA🤮 **
 
 - 💬 Ask me about **React and frontend**
 
 - 📫 How to reach me **codekartikey@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1048WkeoUwu6mpLFrN9GoHgPUwmzA-P2l/view](https://drive.google.com/file/d/1048WkeoUwu6mpLFrN9GoHgPUwmzA-P2l/view)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1OYu25t8Xeq_wrfl2Gi3FuMhS9-a2Yx3t/view?usp=sharing)
 
 - ⚡ Fun fact **I don't touch grass :D**
 
