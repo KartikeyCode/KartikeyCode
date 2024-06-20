@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kartikeycode&label=Profile%20views&color=0e75b6&style=flat" alt="kartikeycode" /> </p>
 
-- 🌱 I’m currently learning ** DSA🤮 **
+- 🌱 I’m currently learning **DSA🤮**
 
 - 💬 Ask me about **React and frontend**
 
